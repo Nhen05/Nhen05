@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi there 👋, my name is Y Nhên Adrong (Henry Nhut).<br><br>🎓 I’m 20 years old and passionate about Web & Software Development.<br><br>💻 I have experience with:<br><br>Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind, ReactJS, Redux, TypeScript<br><br>Backend: PHP, C#, Java (JSP), CodeIgniter 4<br><br>Other Languages: C++, Java<br><br>🚀 I enjoy learning new technologies and building useful applications.<br><br>🌱 Currently exploring modern frameworks and improving my problem-solving skills.
+Hi there 👋, my name is **Y Nhên Adrong** (Henry Nhut).<br><br>
+🎓 I’m 20 years old and passionate about **Web & Software Development**.<br><br>
+📚 **Education:**  
+- Student at **Tay Nguyen Polytechnic College** (2023 – 2026)  
+- Year 1: Achieved **Excellent Student** title  
+- Year 2: Achieved **Outstanding Student** title<br><br>
+🚀 I enjoy learning new technologies and building useful applications.<br><br>
+🌱 Currently exploring modern frameworks and improving my problem-solving skills.<br><br>
+🎯 My future goal is to become a **Fullstack Developer**.
+
 
 
 ## 🌐 Socials:
