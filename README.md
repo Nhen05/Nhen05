@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi there 👋, my name is **Y Nhên Adrong** (Henry Nhut).<br><br>
-🎓 I’m 20 years old and passionate about **Web & Software Development**.<br><br>
+Hi there 👋, my name full name is **Y Nhên Adrong** (Hennry).<br><br>
+🎓 I’m 21 years old and passionate about **Web & Software Development**.<br><br>
 📚 **Education:**  
 - Student at **Tay Nguyen Polytechnic College** (2023 – 2026)  
 - Year 1: Achieved **Excellent Student** title  
