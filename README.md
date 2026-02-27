@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, my name full name is **Y Nhên Adrong** (Hennry).<br><br>
+Hi there 👋, my  full name is **Y Nhên Adrong** (Hennry).<br><br>
 🎓 I’m 21 years old and passionate about **Web & Software Development**.<br><br>
 📚 **Education:**  
 - Student at **Tay Nguyen Polytechnic College** (2023 – 2026)  
